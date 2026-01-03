@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "AWOKE",
+  "base_artist": "DOLLCHESTRA",
+  "createdAt": "2026-01-03T06:04:53.574454Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "By the Time That I Awoke",
+      "artist": "Mark Kozelek & Jimmy LaValle",
+      "has_synced": false,
+      "path": "select/01_By_the_Time_That_I_Awoke_Mark_Kozelek_&_Jimmy_LaValle.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "When I Awoke",
+      "artist": "Toth",
+      "has_synced": false,
+      "path": "select/02_When_I_Awoke_Toth.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "AWOKE",
+      "artist": "DOLLCHESTRA",
+      "has_synced": true,
+      "path": "select/03_AWOKE_DOLLCHESTRA.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "AWOKE",
+      "artist": "DOLLCHESTRA",
+      "has_synced": false,
+      "path": "select/04_AWOKE_DOLLCHESTRA.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "He Awoke on a Bench in Abergavenny",
+      "artist": "Tubelord",
+      "has_synced": false,
+      "path": "select/05_He_Awoke_on_a_Bench_in_Abergavenny_Tubelord.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "When I Awoke",
+      "artist": "Julie Doiron",
+      "has_synced": false,
+      "path": "select/06_When_I_Awoke_Julie_Doiron.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "I Awoke to a Night of Pain and Carnage",
+      "artist": "Judas Iscariot",
+      "has_synced": false,
+      "path": "select/07_I_Awoke_to_a_Night_of_Pain_and_Carnage_Judas_Iscariot.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "When I Awoke",
+      "artist": "Agincourt",
+      "has_synced": false,
+      "path": "select/08_When_I_Awoke_Agincourt.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "How I Awoke",
+      "artist": "Miracle Johan",
+      "has_synced": true,
+      "path": "select/09_How_I_Awoke_Miracle_Johan.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "By the Time That I Awoke",
+      "artist": "Mark Kozelek",
+      "has_synced": false,
+      "path": "select/10_By_the_Time_That_I_Awoke_Mark_Kozelek.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "By the Time That I Awoke",
+      "artist": "Kozelek, Mark & LaValle, Jimmy",
+      "has_synced": false,
+      "path": "select/11_By_the_Time_That_I_Awoke_Kozelek,_Mark_&_LaValle,_Jimmy.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "I Awoke",
+      "artist": "James Yorkston",
+      "has_synced": false,
+      "path": "select/12_I_Awoke_James_Yorkston.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "...And Then I Awoke",
+      "artist": "d.b.s.",
+      "has_synced": false,
+      "path": "select/13_...And_Then_I_Awoke_d.b.s..txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "AWOKE",
+      "artist": "DOLLCHESTRA",
+      "has_synced": false,
+      "path": "select/pl_01_AWOKE_DOLLCHESTRA.txt"
+    }
+  ]
+}
